@@ -29,3 +29,4 @@ program tictactoe.aleo {
             r3: Row { c1: 0u8, c2: 0u8, c3: 0u8 },
         };
     }
+
